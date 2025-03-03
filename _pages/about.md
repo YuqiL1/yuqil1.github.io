@@ -41,7 +41,7 @@ Neural Manifold Learning Based on 40 nm Dual-Mode PCM Compute-in-Memory Chip wit
 
 Longhao Yan#, **Yuqi Li#**, Xi Li, Zelun Pan, Zeyu Wang, Xile Wang, Bowen Wang, Zhe Zhan, Xiyuan Tang, Yaoyu Tao, Woo-Ping Ge, Zhitang Song*, Ru Huang*, Yuchao Yang*
 
-**2024**, *IEEE International Electron Devices Meeting (IEDM)*
+**2024**, **IEEE International Electron Devices Meeting (IEDM)**
 </div>
 </div>
 
@@ -49,15 +49,11 @@ A review on lactoferrin and central nervous system diseases
 
 **Yuqi Li**, Chuang Guo*
 
-**2021**, *Cells*
+**2021**, **Cells**
 
 ## Co-author papers
 
-MeMCISA: Memristor-Enabled Memory-Centric Instruction-Set Architecture for Database Workloads
-
-Yihang Zhu, Lei Cai, Lianfeng Yu, Anjunyi Fan, Longhao Yan, Zhaokun Jing, Bonan Yan, Pek Jun Tiw, **Yuqi Li**, Yaoyu Tao*, Yuchao Yang*
-
-**2024**, *IEEE/ACM International Symposium on Microarchitecture (MICRO)*
++ MeMCISA: Memristor-Enabled Memory-Centric Instruction-Set Architecture for Database Workloads. Yihang Zhu, Lei Cai, Lianfeng Yu, Anjunyi Fan, Longhao Yan, Zhaokun Jing, Bonan Yan, Pek Jun Tiw, **Yuqi Li**, Yaoyu Tao*, Yuchao Yang*. **2024, IEEE/ACM International Symposium on Microarchitecture (MICRO)**
 
 Neural Architecture Search with In‐Memory Multiply–Accumulate and In‐Memory Rank Based on Coating Layer Optimized C‐Doped Ge2Sb2Te5 Phase Change Memory
 
