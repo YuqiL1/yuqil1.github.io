@@ -67,7 +67,7 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 - *2022.06 - 2025.04 (now)*, Ph.D. in Integrated Life Sciences (Physics), Academy for Advanced Interdisciplinary Studies, Peking University
 - *2018.09 - 2022.06*, B.S.E in Bioengineering, College of Life and Health Sciences, Northeastern University. **GPA: 3.94/5.00, Rank: 2/78**
 
-# 💬 Oral Presentation
+# 💬 Oral Presentations
 - *2024.12*, IEDM'24 "Neural Manifold Learning Based on 40 nm Dual-Mode PCM Compute-in-Memory Chip with Hardware Adaptive Drift Compensation"
 - *2024.11*, MICRO'24 "MeMCISA: Memristor-Enabled Memory-Centric Instruction-Set Architecture for Database Workloads"
 - 
