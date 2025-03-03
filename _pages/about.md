@@ -56,7 +56,7 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 - *2024* Merit Student in the academic year of 2023-2024
 - *2024* Leo Koguan Scholarship
 - *2024* Second Prize in Oral Presentation at the Changping Laboratory Ph.D. Forum
-- *2024* Academic Excellence Award at the Peking University Graduate Forum on Advanced Interdisciplinary Studies
+- *2024* Academic Excellence Award at the Peking University Forum on Advanced Interdisciplinary Studies
 - *2022* Outstanding Graduate of Liaoning Province
 - *2021* Outstanding Student of Shenyang
 - *2021* Honorable Mention of Mathematical Contest In Modeling Certificate of Achievement
