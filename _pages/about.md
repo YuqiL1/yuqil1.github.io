@@ -50,11 +50,8 @@ A review on lactoferrin and central nervous system diseases
 **Yuqi Li**, Chuang Guo*
 
 **2021**, *Cells*
-</div>
 
 ## Co-author papers
-
-</div>
 
 MeMCISA: Memristor-Enabled Memory-Centric Instruction-Set Architecture for Database Workloads
 
@@ -62,17 +59,11 @@ Yihang Zhu, Lei Cai, Lianfeng Yu, Anjunyi Fan, Longhao Yan, Zhaokun Jing, Bonan 
 
 **2024**, *IEEE/ACM International Symposium on Microarchitecture (MICRO)*
 
-</div>
-</div>
-
 Neural Architecture Search with In‐Memory Multiply–Accumulate and In‐Memory Rank Based on Coating Layer Optimized C‐Doped Ge2Sb2Te5 Phase Change Memory
 
 Longhao Yan, Qingyu Wu, Xi Li, Chenchen Xie, Xilin Zhou, **Yuqi Li**, Daijing Shi, Lianfeng Yu, Teng Zhang, Yaoyu Tao, Bonan Yan, Min Zhong, Zhitang Song*, Yuchao Yang*, Ru Huang*
 
 **2024**, *Advanced Functional Materials(Q1, IF=19.2)*
-
-</div>
-</div>
 
 Fast and reconfigurable sort-in-memory system enabled by memristors
 
@@ -80,16 +71,11 @@ Lianfeng Yu, Yaoyu Tao*, Teng Zhang, Zeyu Wang, Xile Wang, Zelun Pan, Bowen Wang
 
 **2024**, *arXiv*
 
-</div>
-</div>
-
 Integrated memristor network for physiological signal processing
 
 Lei Cai, Lianfeng Yu, Wenshuo Yue, Yihang Zhu, Zhiyu Yang, **Yuqi Li**, Yaoyu Tao, Yuchao Yang*
 
 **2024**, *arXiv*
-
-</div>
 
 # 🎖 Honors and Awards
 - *2025* Best Poster Award at Post-Moore Academic Annual Conference
