@@ -48,7 +48,7 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 
 - **[MICRO’24]** Yihang Zhu, Lei Cai, Lianfeng Yu, Anjunyi Fan, Longhao Yan, Zhaokun Jing, Bonan Yan, Pek Jun Tiw, **Yuqi Li**, Yaoyu Tao*, Yuchao Yang*. “MeMCISA: Memristor-Enabled Memory-Centric Instruction-Set Architecture for Database Workloads.” IEEE/ACM International Symposium on Microarchitecture (MICRO), 2024.
 - **[AFM’24]** Longhao Yan, Qingyu Wu, Xi Li, Chenchen Xie, Xilin Zhou, **Yuqi Li**, Daijing Shi, Lianfeng Yu, Teng Zhang, Yaoyu Tao, Bonan Yan, Min Zhong, Zhitang Song*, Yuchao Yang*, Ru Huang*. “Neural Architecture Search with In‐Memory Multiply–Accumulate and In‐Memory Rank Based on Coating Layer Optimized C‐Doped Ge2Sb2Te5 Phase Change Memory.” Advanced Functional Materials(Q1, IF=19.2), 2024.
-- **[arXiv’24]** Lianfeng Yu, Yaoyu Tao*, Teng Zhang, Zeyu Wang, Xile Wang, Zelun Pan, Bowen Wang, Zhaokun Jing, Jiaxin Liu, **Yuqi Li**, Yihang Zhu, Bonan Yan, Yuchao Yang*. “Fast and reconfigurable sort-in-memory system enabled by memristors.” arXiv, 2024.
+- **[arXiv’24]** Lianfeng Yu, Yaoyu Tao, Teng Zhang, Zeyu Wang, Xile Wang, Zelun Pan, Bowen Wang, Zhaokun Jing, Jiaxin Liu, **Yuqi Li**, Yihang Zhu, Bonan Yan, Yuchao Yang*. “Fast and reconfigurable sort-in-memory system enabled by memristors.” arXiv, 2024.
 - **[AEM’24]** Lei Cai, Lianfeng Yu, Wenshuo Yue, Yihang Zhu, Zhiyu Yang, **Yuqi Li**, Yaoyu Tao, Yuchao Yang*. “Integrated memristor network for physiological signal processing.” Advanced Electronic Materials, 2023.
 
 # 🎖 Honors and Awards
