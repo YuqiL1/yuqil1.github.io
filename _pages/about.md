@@ -34,7 +34,7 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 
 ## First-author papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/iedm24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEDM 2024</div><img src='images/iedm24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Neural Manifold Learning Based on 40 nm Dual-Mode PCM Compute-in-Memory Chip with Hardware Adaptive Drift Compensation
