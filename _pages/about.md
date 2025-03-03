@@ -24,8 +24,8 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 
 # 🔥 News
 - *2025.01*: &nbsp;🏆 Awarded "Best Poster Award" at Post-Moore Academic Annual Conference!
-- *2024.12*: &nbsp;🎤 Giving an oral presentation at IEDM’2024!
-- *2024.11*: &nbsp;🎤 Giving an oral presentation at MICRO’2024!
+- *2024.12*: &nbsp;🎤 Gave an oral presentation at IEDM’2024!
+- *2024.11*: &nbsp;🎤 Gave an oral presentation at MICRO’2024!
 - *2024.11*: &nbsp;🏆 Awarded "Merit Student" in the academic year of 2023-2024!
 - *2024.11*: &nbsp;🏆 Awarded Leo Koguan Scholarship!
 - *2024.07*: &nbsp;📄 One paper accepted at IEDM’2024! 🔗 [Read more](https://ieeexplore.ieee.org/abstract/document/10873590)
@@ -34,31 +34,83 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 
 ## First-author papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/iedm24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Neural Manifold Learning Based on 40 nm Dual-Mode PCM Compute-in-Memory Chip with Hardware Adaptive Drift Compensation
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Longhao Yan#, **Yuqi Li#**, Xi Li, Zelun Pan, Zeyu Wang, Xile Wang, Bowen Wang, Zhe Zhan, Xiyuan Tang, Yaoyu Tao, Woo-Ping Ge, Zhitang Song*, Ru Huang*, Yuchao Yang*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**2024**, *IEEE International Electron Devices Meeting (IEDM)*
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+A review on lactoferrin and central nervous system diseases
+
+**Yuqi Li**, Chuang Guo*
+
+**2021**, *Cells*
+</div>
+
+## Co-author papers
+
+</div>
+
+MeMCISA: Memristor-Enabled Memory-Centric Instruction-Set Architecture for Database Workloads
+
+Yihang Zhu, Lei Cai, Lianfeng Yu, Anjunyi Fan, Longhao Yan, Zhaokun Jing, Bonan Yan, Pek Jun Tiw, **Yuqi Li**, Yaoyu Tao*, Yuchao Yang*
+
+**2024**, *IEEE/ACM International Symposium on Microarchitecture (MICRO)*
+
+</div>
+</div>
+
+Neural Architecture Search with In‐Memory Multiply–Accumulate and In‐Memory Rank Based on Coating Layer Optimized C‐Doped Ge2Sb2Te5 Phase Change Memory
+
+Longhao Yan, Qingyu Wu, Xi Li, Chenchen Xie, Xilin Zhou, **Yuqi Li**, Daijing Shi, Lianfeng Yu, Teng Zhang, Yaoyu Tao, Bonan Yan, Min Zhong, Zhitang Song*, Yuchao Yang*, Ru Huang*
+
+**2024**, *Advanced Functional Materials(Q1, IF=19.2)*
+
+</div>
+</div>
+
+Fast and reconfigurable sort-in-memory system enabled by memristors
+
+Lianfeng Yu, Yaoyu Tao*, Teng Zhang, Zeyu Wang, Xile Wang, Zelun Pan, Bowen Wang, Zhaokun Jing, Jiaxin Liu, **Yuqi Li**, Yihang Zhu, Bonan Yan, Yuchao Yang*
+
+**2024**, *arXiv*
+
+</div>
+</div>
+
+Integrated memristor network for physiological signal processing
+
+Lei Cai, Lianfeng Yu, Wenshuo Yue, Yihang Zhu, Zhiyu Yang, **Yuqi Li**, Yaoyu Tao, Yuchao Yang*
+
+**2024**, *arXiv*
+
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* Best Poster Award at Post-Moore Academic Annual Conference
+- *2024* Merit Student in the academic year of 2023-2024
+- *2024* Leo Koguan Scholarship
+- *2024* Second Prize in Oral Presentation at the Changping Laboratory Ph.D. Forum
+- *2024* Academic Excellence Award at the Peking University Graduate Forum on Advanced Interdisciplinary Studies
+- *2022* Outstanding Graduate of Liaoning Province
+- *2021* Outstanding Student of Shenyang
+- *2021* Honorable Mention of Mathematical Contest In Modeling Certificate of Achievement
+- *2020* National Second Prize in China Undergraduate Mathematical Contest in Modeling
+- *2020* China National Scholarship
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.06 - 2025.04 (now)*, Ph.D. in Integrated Life Sciences (Physics), Academy for Advanced Interdisciplinary Studies, Peking University
+- *2018.09 - 2022.06*, B.S.E in Bioengineering, College of Life and Health Sciences, Northeastern University. **GPA: 3.94/5.00, Rank: 2/78**
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+# 💬 Oral Presentation
+- *2024.12*, IEDM'24 "Neural Manifold Learning Based on 40 nm Dual-Mode PCM Compute-in-Memory Chip with Hardware Adaptive Drift Compensation"
+- *2024.11*, MICRO'24 "MeMCISA: Memristor-Enabled Memory-Centric Instruction-Set Architecture for Database Workloads"
+- 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.12 - 2022.03*, Baidu, China.
+
