@@ -24,8 +24,8 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 
 # 🔥 News
 - *2025.01*: &nbsp;🏆 Awarded "Best Poster Award" at Post-Moore Academic Annual Conference!
-- *2024.12*: &nbsp;🎤 Gave an oral presentation at IEDM’2024!
-- *2024.11*: &nbsp;🎤 Gave an oral presentation at MICRO’2024!
+- *2024.12*: &nbsp;🎤 Gave an oral presentation at IEEE International Electron Devices Meeting (IEDM) 2024!
+- *2024.11*: &nbsp;🎤 Gave an oral presentation at IEEE/ACM International Symposium on Microarchitecture (MICRO) 2024!
 - *2024.11*: &nbsp;🏆 Awarded "Merit Student" in the academic year of 2023-2024!
 - *2024.11*: &nbsp;🏆 Awarded Leo Koguan Scholarship!
 - *2024.07*: &nbsp;📄 One paper accepted at IEDM’2024! 🔗 [Read more](https://ieeexplore.ieee.org/abstract/document/10873590)
