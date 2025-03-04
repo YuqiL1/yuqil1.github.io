@@ -25,7 +25,7 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 - *2022.06 - 2025.04 (now)*, Ph.D. in Integrated Life Sciences (Physics), Academy for Advanced Interdisciplinary Studies, Peking University
 - *2018.09 - 2022.06*, B.S.E in Bioengineering, College of Life and Health Sciences, Northeastern University. **GPA: 3.94/5.00, Rank: 2/78**
 
-- # 🎖 Honors and Awards
+# 🎖 Honors and Awards
 - *2025* Best Poster Award at Post-Moore Academic Annual Conference
 - *2024* Merit Student in the academic year of 2023-2024
 - *2024* Leo Koguan Scholarship
