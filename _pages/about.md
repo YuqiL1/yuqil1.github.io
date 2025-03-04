@@ -37,12 +37,12 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEDM 2024</div><img src='images/iedm24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **[IEDM’24]** Longhao Yan#, **Yuqi Li#**, Xi Li, Zelun Pan, Zeyu Wang, Xile Wang, Bowen Wang, Zhe Zhan, Xiyuan Tang, Yaoyu Tao, Woo-Ping Ge, Zhitang Song^, Ru Huang^, Yuchao Yang^. “Neural Manifold Learning Based on 40 nm Dual-Mode PCM Compute-in-Memory Chip with Hardware Adaptive Drift Compensation.” IEEE International Electron Devices Meeting (IEDM), 2024.
+- **[IEDM’24]** Longhao Yan#, **Yuqi Li#**, Xi Li, Zelun Pan, Zeyu Wang, Xile Wang, Bowen Wang, Zhe Zhan, Xiyuan Tang, Yaoyu Tao, Woo-Ping Ge, Zhitang Song^, Ru Huang^, Yuchao Yang^. [Neural Manifold Learning Based on 40 nm Dual-Mode PCM Compute-in-Memory Chip with Hardware Adaptive Drift Compensation.]([https://ieeexplore.ieee.org/abstract/document/10873590](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:UeHWp8X0CEIC) IEEE International Electron Devices Meeting (IEDM), 2024.
 
 </div>
 </div>
 
-- **[Cells’24]** **Yuqi Li**, Chuang Guo^. “A review on lactoferrin and central nervous system diseases.” Cells, 2021.
+- **[Cells’24]** **Yuqi Li**, Chuang Guo^. [A review on lactoferrin and central nervous system diseases.]( Cells, 2021.
 
 ## Co-author papers
 
