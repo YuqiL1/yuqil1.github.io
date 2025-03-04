@@ -37,19 +37,19 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEDM 2024</div><img src='images/iedm24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **[IEDM’24]** Longhao Yan#, **Yuqi Li#**, Xi Li, Zelun Pan, Zeyu Wang, Xile Wang, Bowen Wang, Zhe Zhan, Xiyuan Tang, Yaoyu Tao, Woo-Ping Ge, Zhitang Song*, Ru Huang*, Yuchao Yang*. “Neural Manifold Learning Based on 40 nm Dual-Mode PCM Compute-in-Memory Chip with Hardware Adaptive Drift Compensation.” IEEE International Electron Devices Meeting (IEDM), 2024.
+- **[IEDM’24]** Longhao Yan#, **Yuqi Li#**, Xi Li, Zelun Pan, Zeyu Wang, Xile Wang, Bowen Wang, Zhe Zhan, Xiyuan Tang, Yaoyu Tao, Woo-Ping Ge, Zhitang Song^, Ru Huang^, Yuchao Yang^. “Neural Manifold Learning Based on 40 nm Dual-Mode PCM Compute-in-Memory Chip with Hardware Adaptive Drift Compensation.” IEEE International Electron Devices Meeting (IEDM), 2024.
 
 </div>
 </div>
 
-- **[Cells’24]** **Yuqi Li**, Chuang Guo*. “A review on lactoferrin and central nervous system diseases.” Cells, 2021.
+- **[Cells’24]** **Yuqi Li**, Chuang Guo^. “A review on lactoferrin and central nervous system diseases.” Cells, 2021.
 
 ## Co-author papers
 
-- **[MICRO’24]** Yihang Zhu, Lei Cai, Lianfeng Yu, Anjunyi Fan, Longhao Yan, Zhaokun Jing, Bonan Yan, Pek Jun Tiw, **Yuqi Li**, Yaoyu Tao*, Yuchao Yang*. “MeMCISA: Memristor-Enabled Memory-Centric Instruction-Set Architecture for Database Workloads.” IEEE/ACM International Symposium on Microarchitecture (MICRO), 2024.
-- **[AFM’24]** Longhao Yan, Qingyu Wu, Xi Li, Chenchen Xie, Xilin Zhou, **Yuqi Li**, Daijing Shi, Lianfeng Yu, Teng Zhang, Yaoyu Tao, Bonan Yan, Min Zhong, Zhitang Song*, Yuchao Yang*, Ru Huang*. “Neural Architecture Search with In‐Memory Multiply–Accumulate and In‐Memory Rank Based on Coating Layer Optimized C‐Doped Ge2Sb2Te5 Phase Change Memory.” Advanced Functional Materials(Q1, IF=19.2), 2024.
-- **[arXiv’24]** Lianfeng Yu, Yaoyu Tao, Teng Zhang, Zeyu Wang, Xile Wang, Zelun Pan, Bowen Wang, Zhaokun Jing, Jiaxin Liu, **Yuqi Li**, Yihang Zhu, Bonan Yan, Yuchao Yang*. “Fast and reconfigurable sort-in-memory system enabled by memristors.” arXiv, 2024.
-- **[AEM’24]** Lei Cai, Lianfeng Yu, Wenshuo Yue, Yihang Zhu, Zhiyu Yang, **Yuqi Li**, Yaoyu Tao, Yuchao Yang*. “Integrated memristor network for physiological signal processing.” Advanced Electronic Materials, 2023.
+- **[MICRO’24]** Yihang Zhu, Lei Cai, Lianfeng Yu, Anjunyi Fan, Longhao Yan, Zhaokun Jing, Bonan Yan, Pek Jun Tiw, **Yuqi Li**, Yaoyu Tao^, Yuchao Yang^. “MeMCISA: Memristor-Enabled Memory-Centric Instruction-Set Architecture for Database Workloads.” IEEE/ACM International Symposium on Microarchitecture (MICRO), 2024.
+- **[AFM’24]** Longhao Yan, Qingyu Wu, Xi Li, Chenchen Xie, Xilin Zhou, **Yuqi Li**, Daijing Shi, Lianfeng Yu, Teng Zhang, Yaoyu Tao, Bonan Yan, Min Zhong, Zhitang Song^, Yuchao Yang^, Ru Huang^. “Neural Architecture Search with In‐Memory Multiply–Accumulate and In‐Memory Rank Based on Coating Layer Optimized C‐Doped Ge2Sb2Te5 Phase Change Memory.” Advanced Functional Materials(Q1, IF=19.2), 2024.
+- **[arXiv’24]** Lianfeng Yu, Yaoyu Tao^, Teng Zhang, Zeyu Wang, Xile Wang, Zelun Pan, Bowen Wang, Zhaokun Jing, Jiaxin Liu, **Yuqi Li**, Yihang Zhu, Bonan Yan, Yuchao Yang^. “Fast and reconfigurable sort-in-memory system enabled by memristors.” arXiv, 2024.
+- **[AEM’24]** Lei Cai, Lianfeng Yu, Wenshuo Yue, Yihang Zhu, Zhiyu Yang, **Yuqi Li**, Yaoyu Tao, Yuchao Yang^. “Integrated memristor network for physiological signal processing.” Advanced Electronic Materials, 2023.
 
 # 🎖 Honors and Awards
 - *2025* Best Poster Award at Post-Moore Academic Annual Conference
