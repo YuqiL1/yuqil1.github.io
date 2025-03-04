@@ -39,7 +39,7 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 <div class='paper-box-text' markdown="1">
 
 
-- **[IEDM’24]** Longhao Yan<sup>#<sup>, **Yuqi Li<sup>#<sup>**, Xi Li, Zelun Pan, Zeyu Wang, Xile Wang, Bowen Wang, Zhe Zhan, Xiyuan Tang, Yaoyu Tao, Woo-Ping Ge, Zhitang Song^, Ru Huang^, Yuchao Yang^. [Neural Manifold Learning Based on 40 nm Dual-Mode PCM Compute-in-Memory Chip with Hardware Adaptive Drift Compensation.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:UeHWp8X0CEIC) IEEE International Electron Devices Meeting (IEDM), 2024.
+- **[IEDM’24]** Longhao Yan<sup>#</sup>, **Yuqi Li<sup>#</sup>**, Xi Li, Zelun Pan, Zeyu Wang, Xile Wang, Bowen Wang, Zhe Zhan, Xiyuan Tang, Yaoyu Tao, Woo-Ping Ge, Zhitang Song^, Ru Huang^, Yuchao Yang^. [Neural Manifold Learning Based on 40 nm Dual-Mode PCM Compute-in-Memory Chip with Hardware Adaptive Drift Compensation.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:UeHWp8X0CEIC) IEEE International Electron Devices Meeting (IEDM), 2024.
 
 </div>
 </div>
