@@ -7,7 +7,7 @@ main:
     url: "/#-educations"
 
   - title: "Honors and Awards"
-  url: "/#-honors-and-awards"
+    url: "/#-honors-and-awards"
 
   - title: "News"
     url: "/#-news"
