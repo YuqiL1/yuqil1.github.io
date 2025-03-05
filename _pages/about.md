@@ -46,9 +46,9 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 - *2024.07*: &nbsp;📄 One paper accepted at IEDM’2024! 🔗 [Read more](https://ieeexplore.ieee.org/abstract/document/10873590)
 - *2024.05*: &nbsp;📄 Our collaborative paper accepted at MICRO’2024! 
 
-# 📝 Publications 
+# 📝 Main Publications 
 
-## First-author papers
+## Conference Papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEDM 2024</div><img src='images/iedm24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,14 +59,21 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 </div>
 </div>
 
+## Journal Articles
 - **[Cells’24]** **Yuqi Li**, Chuang Guo^. [A review on lactoferrin and central nervous system diseases.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:u-x6o8ySG0sC) Cells, 2021.
 
-## Co-author papers
 
+# 📝 Collaborative Publications 
+
+## Conference Papers
 - **[MICRO’24]** Yihang Zhu, Lei Cai, Lianfeng Yu, Anjunyi Fan, Longhao Yan, Zhaokun Jing, Bonan Yan, Pek Jun Tiw, **Yuqi Li**, Yaoyu Tao^, Yuchao Yang^. [MeMCISA: Memristor-Enabled Memory-Centric Instruction-Set Architecture for Database Workloads.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:IjCSPb-OGe4C) IEEE/ACM International Symposium on Microarchitecture (MICRO), 2024.
+
+## Journal Articles
 - **[AFM’24]** Longhao Yan, Qingyu Wu, Xi Li, Chenchen Xie, Xilin Zhou, **Yuqi Li**, Daijing Shi, Lianfeng Yu, Teng Zhang, Yaoyu Tao, Bonan Yan, Min Zhong, Zhitang Song^, Yuchao Yang^, Ru Huang^. [Neural Architecture Search with In‐Memory Multiply–Accumulate and In‐Memory Rank Based on Coating Layer Optimized C‐Doped Ge2Sb2Te5 Phase Change Memory.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:qjMakFHDy7sC) Advanced Functional Materials(Q1, IF=19.2), 2024.
-- **[arXiv’24]** Lianfeng Yu, Yaoyu Tao^, Teng Zhang, Zeyu Wang, Xile Wang, Zelun Pan, Bowen Wang, Zhaokun Jing, Jiaxin Liu, **Yuqi Li**, Yihang Zhu, Bonan Yan, Yuchao Yang^. [Fast and reconfigurable sort-in-memory system enabled by memristors.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:2osOgNQ5qMEC) arXiv, 2024.
 - **[AEM’24]** Lei Cai, Lianfeng Yu, Wenshuo Yue, Yihang Zhu, Zhiyu Yang, **Yuqi Li**, Yaoyu Tao, Yuchao Yang^. [Integrated memristor network for physiological signal processing.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:9yKSN-GCB0IC) Advanced Electronic Materials, 2023.
+
+## Preprint Articles
+- **[arXiv’24]** Lianfeng Yu, Yaoyu Tao^, Teng Zhang, Zeyu Wang, Xile Wang, Zelun Pan, Bowen Wang, Zhaokun Jing, Jiaxin Liu, **Yuqi Li**, Yihang Zhu, Bonan Yan, Yuchao Yang^. [Fast and reconfigurable sort-in-memory system enabled by memristors.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:2osOgNQ5qMEC) arXiv, 2024.
 
 # 💬 Oral Presentations
 - *2024.12*, IEDM'24 "Neural Manifold Learning Based on 40 nm Dual-Mode PCM Compute-in-Memory Chip with Hardware Adaptive Drift Compensation"
