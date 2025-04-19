@@ -13,10 +13,10 @@ main:
     url: "/#-news"
 
   - title: "Main Publications"
-    url: "/#-main publications"
+    url: "/#-main-publications"
 
   - title: "Collaborative Publications"
-    url: "/#-collaborative publications"
+    url: "/#-collaborative-publications"
 
 
   - title: "Oral Presentations"
