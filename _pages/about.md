@@ -46,7 +46,7 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 - *2024.07*: &nbsp;📄 One paper accepted at IEDM’2024! 🔗 [Read more](https://ieeexplore.ieee.org/abstract/document/10873590)
 - *2024.05*: &nbsp;📄 Our collaborative paper accepted at MICRO’2024! 
 
-# 📝 Main Publications 
+# 📝 Publications 
 
 ## Conference Papers
 
