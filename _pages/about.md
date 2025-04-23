@@ -38,6 +38,7 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 - *2020* China National Scholarship (Top 1 in College of Life and Health Sciences, NEU)
 
 # 🔥 News
+- *2025.04*: &nbsp;🏆 Work was recognized as "Top viewed article" in Advanced Electronic Materials!
 - *2025.01*: &nbsp;🏆 Awarded "Best Poster Award" at Post-Moore Academic Annual Conference!
 - *2024.12*: &nbsp;🎤 Gave an oral presentation at IEEE International Electron Devices Meeting (IEDM) 2024!
 - *2024.11*: &nbsp;🎤 Gave an oral presentation at IEEE/ACM International Symposium on Microarchitecture (MICRO) 2024!
