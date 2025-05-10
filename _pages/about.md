@@ -22,7 +22,7 @@ redirect_from:
 I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Academy for Advanced Interdisciplinary Studies, Peking University, under the supervision of [Prof. Yuchao Yang](http://yuchaolab.cn/index.html) and [Prof. Yaoyu Tao](https://taoyaoyu.github.io/). My research interests focus on computational neuroscience, neuromorphic computing, in-memory computing circuits and architectures, and memristor-based memory and associated architectures. I received B.S.E in Bioengineering from College of Life and Health Sciences, Northeastern University, in 2022 and got the China National Scholarship.
 
 # 📖 Educations
-- *2022.06 - 2025.04 (now)*, Ph.D. in Integrated Life Sciences (Physics), Academy for Advanced Interdisciplinary Studies, Peking University
+- *2022.06 - 2025.05 (now)*, Ph.D. in Integrated Life Sciences (Physics), Academy for Advanced Interdisciplinary Studies, Peking University
 - *2018.09 - 2022.06*, B.S.E in Bioengineering, College of Life and Health Sciences, Northeastern University. **GPA: 3.9/5, Rank: 2/78**
 
 # 🎖 Honors and Awards
@@ -70,7 +70,7 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 - **[MICRO’24]** Yihang Zhu, Lei Cai, Lianfeng Yu, Anjunyi Fan, Longhao Yan, Zhaokun Jing, Bonan Yan, Pek Jun Tiw, **Yuqi Li**, Yaoyu Tao^, Yuchao Yang^. [MeMCISA: Memristor-Enabled Memory-Centric Instruction-Set Architecture for Database Workloads.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:IjCSPb-OGe4C) IEEE/ACM International Symposium on Microarchitecture (MICRO), 2024.
 
 ## Journal Articles
-- **[NE]** Lianfeng Yu, Teng Zhang, Zeyu Wang, Xile Wang, Zelun Pan, Bowen Wang, Zhaokun Jing, Jiaxin Liu, **Yuqi Li**, Ziang Xie, Yihang Zhu, Bonan Yan, Yaoyu Tao^, Yuchao Yang^. A fast and reconfigurable sort-in-memory system based on memristors. Nature Electronics, 2025.
+- **[NE]** Lianfeng Yu, Teng Zhang, Zeyu Wang, Xile Wang, Zelun Pan, Bowen Wang, Zhaokun Jing, Jiaxin Liu, **Yuqi Li**, Ziang Xie, Yihang Zhu, Bonan Yan, Yaoyu Tao^, Yuchao Yang^. A fast and reconfigurable sort-in-memory system based on memristors. Nature Electronics(Q1, IF=33.7), 2025.
 - **[AFM]** Longhao Yan, Qingyu Wu, Xi Li, Chenchen Xie, Xilin Zhou, **Yuqi Li**, Daijing Shi, Lianfeng Yu, Teng Zhang, Yaoyu Tao, Bonan Yan, Min Zhong, Zhitang Song^, Yuchao Yang^, Ru Huang^. [Neural Architecture Search with In‐Memory Multiply–Accumulate and In‐Memory Rank Based on Coating Layer Optimized C‐Doped Ge2Sb2Te5 Phase Change Memory.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:qjMakFHDy7sC) Advanced Functional Materials(Q1, IF=19.2), 2024.
 - **[AEM]** Lei Cai, Lianfeng Yu, Wenshuo Yue, Yihang Zhu, Zhiyu Yang, **Yuqi Li**, Yaoyu Tao, Yuchao Yang^. [Integrated memristor network for physiological signal processing.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:9yKSN-GCB0IC) Advanced Electronic Materials, 2023.
 
