@@ -68,7 +68,7 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Science</div><img src='images/as.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- **[AS]** Chenchen Xie<sup>#</sup>, **Yuqi Li<sup>#</sup>**, Longhao Yan^, Sannian Song, Houpeng Chen, Ruijuan Qi, Xi Li^, Yihang Zhu, Lianfeng Yu, Bonan Yan, Yaoyu Tao, Gaoming Feng, Yuchao Yang^, and Zhitang Song^. Memristive In-Memory Object Detection with 128 Mb C-doped Ge2Sb2Te5 PCM Chip. Advanced Science(Q1, IF=14.2), 2025.
+- **[AS]** Chenchen Xie<sup>#</sup>, **Yuqi Li<sup>#</sup>**, Longhao Yan^, Sannian Song, Houpeng Chen, Ruijuan Qi, Xi Li^, Yihang Zhu, Lianfeng Yu, Bonan Yan, Yaoyu Tao, Gaoming Feng, Yuchao Yang^, and Zhitang Song^. Memristive In-Memory Object Detection with 128 Mb C-doped Ge2Sb2Te5 PCM Chip. Advanced Science (Q1, IF=14.2), 2025.
 
 </div>
 </div>
@@ -83,7 +83,7 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 
 ## Journal Articles
 - **[NE]** Lianfeng Yu, Teng Zhang, Zeyu Wang, Xile Wang, Zelun Pan, Bowen Wang, Zhaokun Jing, Jiaxin Liu, **Yuqi Li**, Ziang Xie, Yihang Zhu, Bonan Yan, Yaoyu Tao^, Yuchao Yang^. A fast and reconfigurable sort-in-memory system based on memristors. Nature Electronics, 2025.
-- **[AFM]** Longhao Yan, Qingyu Wu, Xi Li, Chenchen Xie, Xilin Zhou, **Yuqi Li**, Daijing Shi, Lianfeng Yu, Teng Zhang, Yaoyu Tao, Bonan Yan, Min Zhong, Zhitang Song^, Yuchao Yang^, Ru Huang^. [Neural Architecture Search with In‐Memory Multiply–Accumulate and In‐Memory Rank Based on Coating Layer Optimized C‐Doped Ge2Sb2Te5 Phase Change Memory.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:qjMakFHDy7sC) Advanced Functional Materials(Q1, IF=19.2), 2024.
+- **[AFM]** Longhao Yan, Qingyu Wu, Xi Li, Chenchen Xie, Xilin Zhou, **Yuqi Li**, Daijing Shi, Lianfeng Yu, Teng Zhang, Yaoyu Tao, Bonan Yan, Min Zhong, Zhitang Song^, Yuchao Yang^, Ru Huang^. [Neural Architecture Search with In‐Memory Multiply–Accumulate and In‐Memory Rank Based on Coating Layer Optimized C‐Doped Ge2Sb2Te5 Phase Change Memory.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:qjMakFHDy7sC) Advanced Functional Materials (Q1, IF=19.2), 2024.
 - **[AEM]** Lei Cai, Lianfeng Yu, Wenshuo Yue, Yihang Zhu, Zhiyu Yang, **Yuqi Li**, Yaoyu Tao, Yuchao Yang^. [Integrated memristor network for physiological signal processing.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:9yKSN-GCB0IC) Advanced Electronic Materials, 2023.
 
 ## Preprint Articles
