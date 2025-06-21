@@ -64,7 +64,15 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 </div>
 
 ## Journal Articles
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Science</div><img src='images/as.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 - **[AS]** Chenchen Xie<sup>#</sup>, **Yuqi Li<sup>#</sup>**, Longhao Yan^, Sannian Song, Houpeng Chen, Ruijuan Qi, Xi Li^, Yihang Zhu, Lianfeng Yu, Bonan Yan, Yaoyu Tao, Gaoming Feng, Yuchao Yang^, and Zhitang Song^. Memristive In-Memory Object Detection with 128 Mb C-doped Ge2Sb2Te5 PCM Chip. Advanced Science(Q1, IF=14.2), 2025.
+
+</div>
+</div>
+
 - **[Cells]** **Yuqi Li**, Chuang Guo^. [A review on lactoferrin and central nervous system diseases.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:u-x6o8ySG0sC) Cells, 2021.
 
 
