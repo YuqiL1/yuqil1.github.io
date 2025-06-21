@@ -40,6 +40,7 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 
 # 🔥 News
 - *2025.06*: &nbsp;📄 One paper was accepted at Advanced Science!
+- *2025.05*: &nbsp;📄 Our collaborative paper was accepted at Nature Electronics! 
 - *2025.04*: &nbsp;🏆 Work was recognized as "Top viewed article" in Advanced Electronic Materials!
 - *2025.01*: &nbsp;🏆 Awarded "Best Poster Award" at Post-Moore Academic Annual Conference!
 - *2024.12*: &nbsp;🎤 Gave an oral presentation at IEEE International Electron Devices Meeting (IEDM) 2024!
