@@ -22,7 +22,7 @@ redirect_from:
 I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Academy for Advanced Interdisciplinary Studies, Peking University, under the supervision of [Prof. Yuchao Yang](http://yuchaolab.cn/index.html) and [Prof. Yaoyu Tao](https://taoyaoyu.github.io/). My research interests focus on computational neuroscience, neuromorphic computing, in-memory computing circuits and architectures, and memristor-based memory and associated architectures. I received B.S.E in Bioengineering from College of Life and Health Sciences, Northeastern University, in 2022 and got the China National Scholarship.
 
 # 📖 Educations
-- *2022.06 - 2025.05 (now)*, Ph.D. in Integrated Life Sciences (Physics), Academy for Advanced Interdisciplinary Studies, Peking University
+- *2022.06 - 2025.06 (now)*, Ph.D. in Integrated Life Sciences (Physics), Academy for Advanced Interdisciplinary Studies, Peking University
 - *2018.09 - 2022.06*, B.S.E in Bioengineering, College of Life and Health Sciences, Northeastern University. **GPA: 3.9/5, Rank: 2/78**
 
 # 🎖 Honors and Awards
@@ -39,6 +39,7 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 - *2020* China National Scholarship (Top 1 in College of Life and Health Sciences, NEU)
 
 # 🔥 News
+- *2025.06*: &nbsp;📄 One paper accepted at Advanced Science!
 - *2025.04*: &nbsp;🏆 Work was recognized as "Top viewed article" in Advanced Electronic Materials!
 - *2025.01*: &nbsp;🏆 Awarded "Best Poster Award" at Post-Moore Academic Annual Conference!
 - *2024.12*: &nbsp;🎤 Gave an oral presentation at IEEE International Electron Devices Meeting (IEDM) 2024!
@@ -62,6 +63,7 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 </div>
 
 ## Journal Articles
+- **[AS]** Chenchen Xie<sup>#</sup>, **Yuqi Li<sup>#</sup>**, Longhao Yan^, Sannian Song, Houpeng Chen, Ruijuan Qi, Xi Li*, Yihang Zhu, Lianfeng Yu, Bonan Yan, Yaoyu Tao, Gaoming Feng, Yuchao Yang^, and Zhitang Song^. Memristive In-Memory Object Detection with 128 Mb C-doped Ge2Sb2Te5 PCM Chip. Advanced Science(Q1, IF=14.2), 2025.
 - **[Cells]** **Yuqi Li**, Chuang Guo^. [A review on lactoferrin and central nervous system diseases.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:u-x6o8ySG0sC) Cells, 2021.
 
 
