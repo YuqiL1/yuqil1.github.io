@@ -58,7 +58,11 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 <div class='paper-box-text' markdown="1">
 
 
-- **[IEDM’24]** Longhao Yan<sup>#</sup>, **Yuqi Li<sup>#</sup>**, Xi Li, Zelun Pan, Zeyu Wang, Xile Wang, Bowen Wang, Zhe Zhan, Xiyuan Tang, Yaoyu Tao, Woo-Ping Ge, Zhitang Song^, Ru Huang^, Yuchao Yang^. [Neural Manifold Learning Based on 40 nm Dual-Mode PCM Compute-in-Memory Chip with Hardware Adaptive Drift Compensation.](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:Tyk-4Ss8FVUC) IEEE International Electron Devices Meeting (IEDM), 2024.
+**[IEDM’24]** [Neural Manifold Learning Based on 40 nm Dual-Mode PCM Compute-in-Memory Chip with Hardware Adaptive Drift Compensation.](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:Tyk-4Ss8FVUC)
+
+Longhao Yan<sup>#</sup>, **Yuqi Li<sup>#</sup>**, Xi Li, Zelun Pan, Zeyu Wang, Xile Wang, Bowen Wang, Zhe Zhan, Xiyuan Tang, Yaoyu Tao, Woo-Ping Ge, Zhitang Song^, Ru Huang^, Yuchao Yang^.
+
+IEEE International Electron Devices Meeting (IEDM), San Francisco, CA, USA, 2024.
 
 </div>
 </div>
@@ -68,7 +72,11 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Science</div><img src='images/as.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- **[AS]** Chenchen Xie<sup>#</sup>, **Yuqi Li<sup>#</sup>**, Longhao Yan^, Sannian Song, Houpeng Chen, Ruijuan Qi, Xi Li^, Yihang Zhu, Lianfeng Yu, Bonan Yan, Yaoyu Tao, Gaoming Feng, Yuchao Yang^, and Zhitang Song^. Memristive In-Memory Object Detection with 128 Mb C-doped Ge<sub>2</sub>Sb<sub>2</sub>Te<sub>5</sub> PCM Chip. Advanced Science (Q1, IF=14.2), 2025.
+**[AS]** Memristive In-Memory Object Detection with 128 Mb C-doped Ge<sub>2</sub>Sb<sub>2</sub>Te<sub>5</sub> PCM Chip.
+
+Chenchen Xie<sup>#</sup>, **Yuqi Li<sup>#</sup>**, Longhao Yan^, Sannian Song, Houpeng Chen, Ruijuan Qi, Xi Li^, Yihang Zhu, Lianfeng Yu, Bonan Yan, Yaoyu Tao, Gaoming Feng, Yuchao Yang^, and Zhitang Song^.
+
+Advanced Science (Q1, IF=14.2), 2025.
 
 </div>
 </div>
