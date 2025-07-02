@@ -74,7 +74,7 @@ IEEE International Electron Devices Meeting (IEDM), San Francisco, CA, USA, 2024
   
 **[AS]** Memristive In-Memory Object Detection with 128 Mb C-doped Ge<sub>2</sub>Sb<sub>2</sub>Te<sub>5</sub> PCM Chip.
 
-Chenchen Xie<sup>#</sup>, **Yuqi Li<sup>#</sup>**, Longhao Yan^, Sannian Song, Houpeng Chen, Ruijuan Qi, Xi Li^, Yihang Zhu, Lianfeng Yu, Bonan Yan, Yaoyu Tao, Gaoming Feng, Yuchao Yang^, and Zhitang Song^
+Chenchen Xie<sup>#</sup>, **Yuqi Li<sup>#</sup>**, Longhao Yan^, Sannian Song, Houpeng Chen, Ruijuan Qi, Xi Li^, Yihang Zhu, Lianfeng Yu, Bonan Yan, Yaoyu Tao, Gaoming Feng, Yuchao Yang^, Zhitang Song^
 
 Advanced Science (Q1, IF=14.2), 2025.
 
