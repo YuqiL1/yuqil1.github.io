@@ -60,7 +60,7 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 
 **[IEDM’24]** [Neural Manifold Learning Based on 40 nm Dual-Mode PCM Compute-in-Memory Chip with Hardware Adaptive Drift Compensation.](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:Tyk-4Ss8FVUC)
 
-Longhao Yan<sup>#</sup>, **Yuqi Li<sup>#</sup>**, Xi Li, Zelun Pan, Zeyu Wang, Xile Wang, Bowen Wang, Zhe Zhan, Xiyuan Tang, Yaoyu Tao, Woo-Ping Ge, Zhitang Song^, Ru Huang^, Yuchao Yang^.
+Longhao Yan<sup>#</sup>, **Yuqi Li<sup>#</sup>**, Xi Li, Zelun Pan, Zeyu Wang, Xile Wang, Bowen Wang, Zhe Zhan, Xiyuan Tang, Yaoyu Tao, Woo-Ping Ge, Zhitang Song^, Ru Huang^, Yuchao Yang^
 
 IEEE International Electron Devices Meeting (IEDM), San Francisco, CA, USA, 2024.
 
@@ -74,15 +74,18 @@ IEEE International Electron Devices Meeting (IEDM), San Francisco, CA, USA, 2024
   
 **[AS]** Memristive In-Memory Object Detection with 128 Mb C-doped Ge<sub>2</sub>Sb<sub>2</sub>Te<sub>5</sub> PCM Chip.
 
-Chenchen Xie<sup>#</sup>, **Yuqi Li<sup>#</sup>**, Longhao Yan^, Sannian Song, Houpeng Chen, Ruijuan Qi, Xi Li^, Yihang Zhu, Lianfeng Yu, Bonan Yan, Yaoyu Tao, Gaoming Feng, Yuchao Yang^, and Zhitang Song^.
+Chenchen Xie<sup>#</sup>, **Yuqi Li<sup>#</sup>**, Longhao Yan^, Sannian Song, Houpeng Chen, Ruijuan Qi, Xi Li^, Yihang Zhu, Lianfeng Yu, Bonan Yan, Yaoyu Tao, Gaoming Feng, Yuchao Yang^, and Zhitang Song^
 
 Advanced Science (Q1, IF=14.2), 2025.
 
 </div>
 </div>
 
-- **[Cells]** **Yuqi Li**, Chuang Guo^. [A review on lactoferrin and central nervous system diseases.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:u-x6o8ySG0sC) Cells, 2021.
+**[Cells]** [A review on lactoferrin and central nervous system diseases.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:u-x6o8ySG0sC)
 
+**Yuqi Li**, Chuang Guo^ 
+
+ Cells, 2021.
 
 # 📝 Collaborative Publications 
 
