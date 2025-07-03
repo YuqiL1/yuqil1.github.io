@@ -81,6 +81,9 @@ Advanced Science (Q1, IF=14.2), 2025.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cells</div><img src='images/cells.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **[Cells]** [A review on lactoferrin and central nervous system diseases.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:u-x6o8ySG0sC)
 
 **Yuqi Li**, Chuang Guo^ 
