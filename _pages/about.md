@@ -72,7 +72,7 @@ IEEE International Electron Devices Meeting (IEDM), San Francisco, CA, USA, 2024
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Advanced Science</div><img src='images/as.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**[AS]** Memristive In-Memory Object Detection with 128 Mb C-doped Ge<sub>2</sub>Sb<sub>2</sub>Te<sub>5</sub> PCM Chip.
+**[Adv. Sci.]** Memristive In-Memory Object Detection with 128 Mb C-doped Ge<sub>2</sub>Sb<sub>2</sub>Te<sub>5</sub> PCM Chip.
 
 Chenchen Xie<sup>#</sup>, **Yuqi Li<sup>#</sup>**, Longhao Yan^, Sannian Song, Houpeng Chen, Ruijuan Qi, Xi Li^, Yihang Zhu, Lianfeng Yu, Bonan Yan, Yaoyu Tao, Gaoming Feng, Yuchao Yang^, Zhitang Song^
 
@@ -99,9 +99,9 @@ Advanced Science (Q1, IF=14.2), 2025.
 - **[MICRO’24]** Yihang Zhu, Lei Cai, Lianfeng Yu, Anjunyi Fan, Longhao Yan, Zhaokun Jing, Bonan Yan, Pek Jun Tiw, **Yuqi Li**, Yaoyu Tao^, Yuchao Yang^. [MeMCISA: Memristor-Enabled Memory-Centric Instruction-Set Architecture for Database Workloads.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:IjCSPb-OGe4C) IEEE/ACM International Symposium on Microarchitecture (MICRO), 2024.
 
 ## Journal Articles
-- **[NE]** Lianfeng Yu, Teng Zhang, Zeyu Wang, Xile Wang, Zelun Pan, Bowen Wang, Zhaokun Jing, Jiaxin Liu, **Yuqi Li**, Ziang Xie, Yihang Zhu, Bonan Yan, Yaoyu Tao^, Yuchao Yang^. [A fast and reconfigurable sort-in-memory system based on memristors](https://www.nature.com/articles/s41928-025-01405-2). Nature Electronics, 2025.
-- **[AFM]** Longhao Yan, Qingyu Wu, Xi Li, Chenchen Xie, Xilin Zhou, **Yuqi Li**, Daijing Shi, Lianfeng Yu, Teng Zhang, Yaoyu Tao, Bonan Yan, Min Zhong, Zhitang Song^, Yuchao Yang^, Ru Huang^. [Neural Architecture Search with In‐Memory Multiply–Accumulate and In‐Memory Rank Based on Coating Layer Optimized C‐Doped Ge2Sb2Te5 Phase Change Memory.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:qjMakFHDy7sC) Advanced Functional Materials (Q1, IF=19.2), 2024.
-- **[AEM]** Lei Cai, Lianfeng Yu, Wenshuo Yue, Yihang Zhu, Zhiyu Yang, **Yuqi Li**, Yaoyu Tao, Yuchao Yang^. [Integrated memristor network for physiological signal processing.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:9yKSN-GCB0IC) Advanced Electronic Materials, 2023.
+- **[Nat. Electron.]** Lianfeng Yu, Teng Zhang, Zeyu Wang, Xile Wang, Zelun Pan, Bowen Wang, Zhaokun Jing, Jiaxin Liu, **Yuqi Li**, Ziang Xie, Yihang Zhu, Bonan Yan, Yaoyu Tao^, Yuchao Yang^. [A fast and reconfigurable sort-in-memory system based on memristors](https://www.nature.com/articles/s41928-025-01405-2). Nature Electronics, 2025.
+- **[Adv. Funct. Mater.]** Longhao Yan, Qingyu Wu, Xi Li, Chenchen Xie, Xilin Zhou, **Yuqi Li**, Daijing Shi, Lianfeng Yu, Teng Zhang, Yaoyu Tao, Bonan Yan, Min Zhong, Zhitang Song^, Yuchao Yang^, Ru Huang^. [Neural Architecture Search with In‐Memory Multiply–Accumulate and In‐Memory Rank Based on Coating Layer Optimized C‐Doped Ge2Sb2Te5 Phase Change Memory.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:qjMakFHDy7sC) Advanced Functional Materials (Q1, IF=19.2), 2024.
+- **[Adv. Electron. Mater.]** Lei Cai, Lianfeng Yu, Wenshuo Yue, Yihang Zhu, Zhiyu Yang, **Yuqi Li**, Yaoyu Tao, Yuchao Yang^. [Integrated memristor network for physiological signal processing.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:9yKSN-GCB0IC) Advanced Electronic Materials, 2023.
 
 ## Preprint Articles
 - **[arXiv]** Lianfeng Yu, Yaoyu Tao^, Teng Zhang, Zeyu Wang, Xile Wang, Zelun Pan, Bowen Wang, Zhaokun Jing, Jiaxin Liu, **Yuqi Li**, Yihang Zhu, Bonan Yan, Yuchao Yang^. [Fast and reconfigurable sort-in-memory system enabled by memristors.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:2osOgNQ5qMEC) arXiv, 2024.
