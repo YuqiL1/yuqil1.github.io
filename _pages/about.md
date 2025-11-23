@@ -39,6 +39,9 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 - *2020* China National Scholarship (Top 1 in College of Life and Health Sciences, NEU)
 
 # 🔥 News
+- *2025.10*: &nbsp;🎤 Gave an oral presentation at 8th International Conference on Memristive Materials, Devices & Systems (MEMRISYS) 2025!
+- *2025.10*: &nbsp;🏆 Awarded "Merit Student" in the academic year of 2024-2025!
+- *2025.10*: &nbsp;🏆 Awarded Guanggu Scholarship!
 - *2025.06*: &nbsp;📄 One paper was accepted at Advanced Science!
 - *2025.05*: &nbsp;📄 Our collaborative paper was accepted at Nature Electronics! 
 - *2025.04*: &nbsp;🏆 Work was recognized as "Top viewed article" in Advanced Electronic Materials!
@@ -96,9 +99,11 @@ Advanced Science (Q1, IF=14.2), 2025.
 # 📝 Collaborative Publications 
 
 ## Conference Papers
+- **[ICTA’24]** Bowen Wang#, Longhao Yan#, Xiyuan Tang, Xile Wang, **Yuqi Li**, Zeyu Wang, Zelun Pan, Daijing Shi, Zhe Zhan, Yaoyu Tao, Zhitang Song^, Yuchao Yang^. [A 617.7 TOPS/W PCM-Based Charge-Domain CIM Macro with Capacitor Reuse Method and Scalable Local Compute Unit.] IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA), 2025.
 - **[MICRO’24]** Yihang Zhu, Lei Cai, Lianfeng Yu, Anjunyi Fan, Longhao Yan, Zhaokun Jing, Bonan Yan, Pek Jun Tiw, **Yuqi Li**, Yaoyu Tao^, Yuchao Yang^. [MeMCISA: Memristor-Enabled Memory-Centric Instruction-Set Architecture for Database Workloads.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:IjCSPb-OGe4C) IEEE/ACM International Symposium on Microarchitecture (MICRO), 2024.
 
 ## Journal Articles
+- **[Infomat.]** Keqin Liu#, Lin Bao#, Jiarong Wang, Yang Yang, Yuzhe Wang, Pek Jun Tiw, Xulei Wu, Teng Zhang, Lei Cai, Xin Shan, Jiakang Qiu, **Yuqi Li**, Yuchao Yang^. [A dual-ferroelectric gate-tunable memristor for physically-implemented nonlinear computing]([https://onlinelibrary.wiley.com/doi/10.1002/inf2.70083]). Infomat(Q1, IF=22.3), 2025.
 - **[Nat. Electron.]** Lianfeng Yu, Teng Zhang, Zeyu Wang, Xile Wang, Zelun Pan, Bowen Wang, Zhaokun Jing, Jiaxin Liu, **Yuqi Li**, Ziang Xie, Yihang Zhu, Bonan Yan, Yaoyu Tao^, Yuchao Yang^. [A fast and reconfigurable sort-in-memory system based on memristors](https://www.nature.com/articles/s41928-025-01405-2). Nature Electronics, 2025.
 - **[Adv. Funct. Mater.]** Longhao Yan, Qingyu Wu, Xi Li, Chenchen Xie, Xilin Zhou, **Yuqi Li**, Daijing Shi, Lianfeng Yu, Teng Zhang, Yaoyu Tao, Bonan Yan, Min Zhong, Zhitang Song^, Yuchao Yang^, Ru Huang^. [Neural Architecture Search with In‐Memory Multiply–Accumulate and In‐Memory Rank Based on Coating Layer Optimized C‐Doped Ge2Sb2Te5 Phase Change Memory.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:qjMakFHDy7sC) Advanced Functional Materials (Q1, IF=19.2), 2024.
 - **[Adv. Electron. Mater.]** Lei Cai, Lianfeng Yu, Wenshuo Yue, Yihang Zhu, Zhiyu Yang, **Yuqi Li**, Yaoyu Tao, Yuchao Yang^. [Integrated memristor network for physiological signal processing.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:9yKSN-GCB0IC) Advanced Electronic Materials, 2023.
@@ -109,7 +114,12 @@ Advanced Science (Q1, IF=14.2), 2025.
 # 💬 Oral Presentations
 - *2024.12*, IEDM'24 "Neural Manifold Learning Based on 40 nm Dual-Mode PCM Compute-in-Memory Chip with Hardware Adaptive Drift Compensation"
 - *2024.11*, MICRO'24 "MeMCISA: Memristor-Enabled Memory-Centric Instruction-Set Architecture for Database Workloads"
-- 
+  
 # 💻 Internships
 - *2021.12 - 2022.03*, Baidu, China.
+  
+# 👨🏻‍🎓 Services
+- Official Reviewer of [ISCAS'26](https://2026.ieee-iscas.org/)
+
+
 
