@@ -99,7 +99,7 @@ Advanced Science (Q1, IF=14.2), 2025.
 # 📝 Collaborative Publications 
 
 ## Conference Papers
-- **[ICTA’24]** Bowen Wang#, Longhao Yan#, Xiyuan Tang, Xile Wang, **Yuqi Li**, Zeyu Wang, Zelun Pan, Daijing Shi, Zhe Zhan, Yaoyu Tao, Zhitang Song^, Yuchao Yang^. [A 617.7 TOPS/W PCM-Based Charge-Domain CIM Macro with Capacitor Reuse Method and Scalable Local Compute Unit.] IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA), 2025.
+- **[ICTA’24]** Bowen Wang#, Longhao Yan#, Xiyuan Tang, Xile Wang, **Yuqi Li**, Zeyu Wang, Zelun Pan, Daijing Shi, Zhe Zhan, Yaoyu Tao, Zhitang Song^, Yuchao Yang^. A 617.7 TOPS/W PCM-Based Charge-Domain CIM Macro with Capacitor Reuse Method and Scalable Local Compute Unit. IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA), 2025.
 - **[MICRO’24]** Yihang Zhu, Lei Cai, Lianfeng Yu, Anjunyi Fan, Longhao Yan, Zhaokun Jing, Bonan Yan, Pek Jun Tiw, **Yuqi Li**, Yaoyu Tao^, Yuchao Yang^. [MeMCISA: Memristor-Enabled Memory-Centric Instruction-Set Architecture for Database Workloads.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:IjCSPb-OGe4C) IEEE/ACM International Symposium on Microarchitecture (MICRO), 2024.
 
 ## Journal Articles
