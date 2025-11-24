@@ -47,6 +47,10 @@ I am Zelun Pan, a Ph.D. student in the School of Integrated Circuits, Peking Uni
 
 ## Conference Papers
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSCIRC'25</div><img src='images/ESSERC2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **[ESSERC'25]**[A 1308 TOPS/W Charge-Mode ReRAM CIM Macro with 4T2R2C Differential Cell and FIA-Based Analog Accumulation for AI Inference](https://scholar.google.com/citations?view_op=view_citation&user=2qw1leMAAAAJ&citation_for_view=2qw1leMAAAAJ:Tyk-4Ss8FVUC)
 
 Longhao Yan<sup>#</sup>, **Zelun Pan<sup>#</sup>**, Zhe Zhan, Daijing Shi, Yihang Zhu, Yaoyu Tao^, Yuchao Yang^
@@ -56,8 +60,8 @@ IEEE European Conference on Solid-State Circuits (ESSCIRC), Munich, Germany, 202
 </div>
 </div>
 
-
-<!-- ## Journal Articles
+<!-- 
+## Journal Articles
 
 
 
