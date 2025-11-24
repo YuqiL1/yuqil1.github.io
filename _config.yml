@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuqi Li (李宇琦)"
-description              : "Ph.D. student in Peking University, Academy for Advanced Interdisciplinary Studies"
-repository               : "YuqiL1/yuqil1.github.io"
+title                    : "Zelun Pan (潘泽伦)"
+description              : "Ph.D. student in Peking University, School of Integrated Circuits"
+repository               : "HiggsBose/higgsbose.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuqi Li (李宇琦)"
+  name             : "Zelun Pan (潘泽伦)"
   avatar           : "images/android-chrome-512x512.jpg"
   bio              : "PhD Candidate"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=366EE6gAAAAJ"
-  email            : "liyuqi@stu.pku.edu.cn"
+  email            : "zlpan@stu.pku.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YuqiL1"
+  github           : "HiggsBose"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yuqi-li-5434b8295/"
+  linkedin         : "zelun-pan-0934701b3/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
