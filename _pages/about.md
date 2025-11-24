@@ -34,13 +34,14 @@ I am Zelun Pan, a Ph.D. student in the School of Integrated Circuits, Peking Uni
 - *2019* Second Prize of 36th CPhO
 
 # 🔥 News
-- *2025.11*: &nbsp; 
+- *2025.11*: &nbsp;🔥 Presneted a poster at AI Tech Day!
 - *2025.09*: &nbsp;🎤 Gave an oral presentation at IEEE European Conference on Solid-State Circuits (ESSCIRC) 2025!
 - *2025.07*: &nbsp;📄 One paper was accepted at IEDM’2025! 
-- *2025.05*: &nbsp;📄 Our collaborative paper was accepted at Nature Electronics! 🔗 [Read more](http://nature.com/articles/s41928-025-01405-2)
+- *2025.05*: &nbsp;📄 Our collaborative paper was accepted at Nature Electronics!
 - *2025.05*: &nbsp;📄 One paper was accepted at ESSCIRC'25! 🔗 [Read more](https://ieeexplore.ieee.org/document/11214056)
-- *2024.07*: &nbsp;📄 Our collaborative paper was accepted at IEDM’24! 🔗 [Read more](https://ieeexplore.ieee.org/abstract/document/10873590)
-- *2024.02*: &nbsp; 📄 Our collaborative paper was accepted by Nature Communications! 🔗 [Read more](https://www.nature.com/articles/s41467-024-45923-7)
+- *2024.08*: &nbsp;📄 Our collaborative paper was accepted at IEDM’24!
+- *2024.06*: &nbsp;🔥 Awarded 24'Fall Excellent Graduate of Peking University! 
+- *2024.02*: &nbsp; 📄 Our collaborative paper was accepted by Nature Communications!
 
 # 📝 Main Publications 
 
@@ -85,6 +86,7 @@ IEEE European Conference on Solid-State Circuits (ESSCIRC), Munich, Germany, 202
 
 ## Journal Articles
 - **[Nat. Electron.]** Lianfeng Yu, Teng Zhang, Zeyu Wang, Xile Wang, **Zelun Pan**, Bowen Wang, Zhaokun Jing, Jiaxin Liu, Yuqi Li, Ziang Xie, Yihang Zhu, Bonan Yan, Yaoyu Tao^, Yuchao Yang^. [A fast and reconfigurable sort-in-memory system based on memristors](https://www.nature.com/articles/s41928-025-01405-2). Nature Electronics, 2025.
+- **[Nat. Communications]** Chang Liu, Pek Jun Tiw, Teng Zhang, Yanghao Wang, Lei Cai, Rui Yuan, **Zelun Pan**, Wenshuo Yue, Yaoyu Tao^, Yuchao Yang^. [VO2 memristor-based frequency converter with in-situ synthesize and mix for wireless internet-of-things](https://www.nature.com/articles/s41467-024-45923-7)
 
 ## Preprint Articles
 - **[arXiv]** Lianfeng Yu, Yaoyu Tao^, Teng Zhang, Zeyu Wang, Xile Wang, **Zelun Pan**, Bowen Wang, Zhaokun Jing, Jiaxin Liu, Yuqi Li, Yihang Zhu, Bonan Yan, Yuchao Yang^. [Fast and reconfigurable sort-in-memory system enabled by memristors.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:2osOgNQ5qMEC) arXiv, 2024.
