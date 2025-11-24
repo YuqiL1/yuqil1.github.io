@@ -37,9 +37,10 @@ I am Zelun Pan, a Ph.D. student in the School of Integrated Circuits, Peking Uni
 - *2025.11*: &nbsp; 
 - *2025.09*: &nbsp;🎤 Gave an oral presentation at IEEE European Conference on Solid-State Circuits (ESSCIRC) 2025!
 - *2025.07*: &nbsp;📄 One paper was accepted at IEDM’2025! 
-- *2025.05*: &nbsp;📄 Our collaborative paper was accepted at Nature Electronics! 
+- *2025.05*: &nbsp;📄 Our collaborative paper was accepted at Nature Electronics! 🔗 [Read more](http://nature.com/articles/s41928-025-01405-2)
 - *2025.05*: &nbsp;📄 One paper was accepted at ESSCIRC'25! 🔗 [Read more](https://ieeexplore.ieee.org/document/11214056)
-- *2024.07*: &nbsp;📄 Our collaborative paper was accepted at IEDM’24! 🔗 [Read more](https://ieeexplore.ieee.org/abstract/document/10873590) 
+- *2024.07*: &nbsp;📄 Our collaborative paper was accepted at IEDM’24! 🔗 [Read more](https://ieeexplore.ieee.org/abstract/document/10873590)
+- *2024.02*: &nbsp; 📄 Our collaborative paper was accepted by Nature Communications! 🔗 [Read more](https://www.nature.com/articles/s41467-024-45923-7)
 
 # 📝 Main Publications 
 
