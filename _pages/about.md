@@ -79,7 +79,7 @@ IEEE European Conference on Solid-State Circuits (ESSCIRC), Munich, Germany, 202
 # 📝 Collaborative Publications 
 
 ## Conference Papers
-- **[ICTA’25]** Bowen Wang#, Longhao Yan#, Xiyuan Tang, Xile Wang, Yuqi Li, Zeyu Wang, **Zelun Pan**, Daijing Shi, Zhe Zhan, Yaoyu Tao, Zhitang Song^, Yuchao Yang^. A 617.7 TOPS/W PCM-Based Charge-Domain CIM Macro with Capacitor Reuse Method and Scalable Local Compute Unit. IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA), 2025.
+- **[ICTA’25]** Bowen Wang<sup>#</sup>, Longhao Yan<sup>#</sup>, Xiyuan Tang, Xile Wang, Yuqi Li, Zeyu Wang, **Zelun Pan**, Daijing Shi, Zhe Zhan, Yaoyu Tao, Zhitang Song^, Yuchao Yang^. A 617.7 TOPS/W PCM-Based Charge-Domain CIM Macro with Capacitor Reuse Method and Scalable Local Compute Unit. IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA), 2025.
 - **[IEDM’24]** Longhao Yan<sup>#</sup>, Yuqi Li<sup>#</sup>, Xi Li, **Zelun Pan**, Zeyu Wang, Xile Wang, Bowen Wang, Zhe Zhan, Xiyuan Tang, Yaoyu Tao, Woo-Ping Ge, Zhitang Song^, Ru Huang^, Yuchao Yang^ [Neural Manifold Learning Based on 40 nm Dual-Mode PCM Compute-in-Memory Chip with Hardware Adaptive Drift Compensation.](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:Tyk-4Ss8FVUC) IEEE International Electron Devices Meeting (IEDM), San Francisco, CA, USA, 2024.
 
 
@@ -94,7 +94,11 @@ IEEE European Conference on Solid-State Circuits (ESSCIRC), Munich, Germany, 202
 # 💬 Oral Presentations
 - *2025.09*, ESSCIRC'25 "A 1308 TOPS/W Charge-Mode ReRAM CIM Macro with 4T2R2C Differential Cell and FIA-Based Analog Accumulation for AI Inference"
 
-  
+# 🔭 Projects
+*I like to write some random codes in my spare time, check them out here*
+- [A Simple 5 Stage Pipelined RISC-V CPU with a Customized Accelerator](https://github.com/HiggsBose/RiscV_CPU_with_Accelerator)
+- [A ResNet-20 with Learned Step Quantization(LSQ) and Noise-aware Training](https://github.com/HiggsBose/ResNet20-with-LSQ-quantization)
+
 <!-- # 💻 Internships
 - *2021.12 - 2022.03*, Baidu, China.
   
