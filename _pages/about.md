@@ -30,6 +30,7 @@ My research interests focus on
 # 📖 Educations
 - *2024.09 - Present*, Ph.D. in School of Integrated Circuits, Peking University
 - *2020.09 - 2024.06*, B.S in EECS, Peking University. **Rank: 2/46, Excellent Graduate**
+- *2023.09 - 2024.01*, Exchange Student at Department of Computer Science, UCL
 
 # 🎖 Honors and Awards
 - *2024* Excellent Graduate (24' Fall) of Peking University
