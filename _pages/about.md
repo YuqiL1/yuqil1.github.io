@@ -19,7 +19,7 @@ redirect_from:
 
 # Welcome!
 
-I am Zelun Pan, a Ph.D. student in the School of Integrated Circuits, Peking University. I'm fortunate to be advised by [Prof. Yuchao Yang](http://yuchaolab.cn/index.html) and [Prof. Yaoyu Tao](https://taoyaoyu.github.io/). I received B.S in EECS, Peking University, in 2024 as an outstanding graduate.
+I am Zelun Pan, a Ph.D. student at the School of Integrated Circuits, Peking University. I'm fortunate to be advised by [Prof. Yuchao Yang](http://yuchaolab.cn/index.html) and [Prof. Yaoyu Tao](https://taoyaoyu.github.io/). I received B.S in EECS, Peking University, in 2024 as an outstanding graduate.
 
 My research interests focus on 
 
@@ -28,8 +28,8 @@ My research interests focus on
 - In-Memory-Computing (IMC) chip design. 
 
 # 📖 Educations
-- *2024.09 - Present*, Ph.D. in School of Integrated Circuits, Peking University
-- *2020.09 - 2024.06*, B.S in EECS, Peking University. **Rank: 2/46, Excellent Graduate**
+- *2024.09 - Present*, Ph.D. at School of Integrated Circuits, Peking University
+- *2020.09 - 2024.06*, B.S at EECS, Peking University. **Rank: 2/46, Excellent Graduate**
 - *2023.09 - 2024.01*, Exchange Student at Department of Computer Science, UCL
 
 # 🎖 Honors and Awards
