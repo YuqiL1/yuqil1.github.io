@@ -19,7 +19,13 @@ redirect_from:
 
 # Welcome!
 
-I am Zelun Pan, a Ph.D. student in the School of Integrated Circuits, Peking University. I'm fortunate to be advised by [Prof. Yuchao Yang](http://yuchaolab.cn/index.html) and [Prof. Yaoyu Tao](https://taoyaoyu.github.io/). My research interests focus on heterogeneous archieture (including memory-centric architectures, optical-electrical computing accelerators and etc.) and in-memory-computing (IMC) chip design. I received B.S in EECS, Peking University, in 2024 as an outstanding graduate.
+I am Zelun Pan, a Ph.D. student in the School of Integrated Circuits, Peking University. I'm fortunate to be advised by [Prof. Yuchao Yang](http://yuchaolab.cn/index.html) and [Prof. Yaoyu Tao](https://taoyaoyu.github.io/). I received B.S in EECS, Peking University, in 2024 as an outstanding graduate.
+
+My research interests focus on 
+
+- Heterogeneous Archieture, including memory-centric architectures, optical-electrical computing accelerators and etc. 
+
+- In-Memory-Computing (IMC) chip design. 
 
 # 📖 Educations
 - *2024.09 - Present*, Ph.D. in School of Integrated Circuits, Peking University
@@ -103,11 +109,11 @@ IEEE European Conference on Solid-State Circuits (ESSCIRC), Munich, Germany, 202
 - [A Simple 5 Stage Pipelined RISC-V CPU with a Customized Accelerator](https://github.com/HiggsBose/RiscV_CPU_with_Accelerator)
 - [A ResNet-20 with Learned Step Quantization(LSQ) and Noise-aware Training](https://github.com/HiggsBose/ResNet20-with-LSQ-quantization)
 
-<!-- # 💻 Internships
-- *2021.12 - 2022.03*, Baidu, China.
+# 💻 Internships
+I'm actively searching for internships in IC design and AI algorithms. Please reach out to me if interested!
   
 # 👨🏻‍🎓 Services
-- Official Reviewer of [ISCAS'26](https://2026.ieee-iscas.org/) -->
+- TA of [AIArchPKU 25'Spring](https://aiarchpku.com/2024Fall/)
 
 
 
