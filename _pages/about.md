@@ -96,7 +96,7 @@ IEEE European Conference on Solid-State Circuits (ESSCIRC), Munich, Germany, 202
 
 ## Journal Articles
 - **[Nat. Electron.]** Lianfeng Yu, Teng Zhang, Zeyu Wang, Xile Wang, **Zelun Pan**, Bowen Wang, Zhaokun Jing, Jiaxin Liu, Yuqi Li, Ziang Xie, Yihang Zhu, Bonan Yan, Yaoyu Tao^, Yuchao Yang^. [A fast and reconfigurable sort-in-memory system based on memristors](https://www.nature.com/articles/s41928-025-01405-2). Nature Electronics, 2025.
-- **[Nat. Communications]** Chang Liu, Pek Jun Tiw, Teng Zhang, Yanghao Wang, Lei Cai, Rui Yuan, **Zelun Pan**, Wenshuo Yue, Yaoyu Tao^, Yuchao Yang^. [VO2 memristor-based frequency converter with in-situ synthesize and mix for wireless internet-of-things](https://www.nature.com/articles/s41467-024-45923-7)
+- **[Nat. Communications]** Chang Liu, Pek Jun Tiw, Teng Zhang, Yanghao Wang, Lei Cai, Rui Yuan, **Zelun Pan**, Wenshuo Yue, Yaoyu Tao^, Yuchao Yang^. [VO2 memristor-based frequency converter with in-situ synthesize and mix for wireless internet-of-things](https://www.nature.com/articles/s41467-024-45923-7). Nature Communications, 2024.
 
 ## Preprint Articles
 - **[arXiv]** Lianfeng Yu, Yaoyu Tao^, Teng Zhang, Zeyu Wang, Xile Wang, **Zelun Pan**, Bowen Wang, Zhaokun Jing, Jiaxin Liu, Yuqi Li, Yihang Zhu, Bonan Yan, Yuchao Yang^. [Fast and reconfigurable sort-in-memory system enabled by memristors.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:2osOgNQ5qMEC) arXiv, 2024.
