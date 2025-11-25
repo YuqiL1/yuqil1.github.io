@@ -28,7 +28,7 @@ My research interests focus on
 - In-Memory-Computing (IMC) chip design. 
 
 # 📖 Educations
-- *2024.09 - Present*, Ph.D. at School of Integrated Circuits, Peking University
+- *2024.09 - Present*, Ph.D. Student at School of Integrated Circuits, Peking University
 - *2020.09 - 2024.06*, B.S at EECS, Peking University. **Rank: 2/46, Excellent Graduate**
 - *2023.09 - 2024.01*, Exchange Student at Department of Computer Science, UCL
 
