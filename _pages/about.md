@@ -41,14 +41,14 @@ My research interests focus on
 - *2019* Second Prize of 36th CPhO
 
 # 🔥 News
-- *2025.11*: &nbsp;🔥 Presneted a poster at AI Tech Day!
+- *2025.11*: &nbsp;🔥 Presneted a poster at 2025 AI Tech Day!
 - *2025.09*: &nbsp;🎤 Gave an oral presentation at IEEE European Conference on Solid-State Circuits (ESSCIRC) 2025!
-- *2025.07*: &nbsp;📄 One paper was accepted at IEDM’2025! 
+- *2025.07*: &nbsp;📄 One paper was accepted at IEDM’25! 
 - *2025.05*: &nbsp;📄 Our collaborative paper was accepted at Nature Electronics!
 - *2025.05*: &nbsp;📄 One paper was accepted at ESSCIRC'25! 🔗 [Read more](https://ieeexplore.ieee.org/document/11214056)
 - *2024.08*: &nbsp;📄 Our collaborative paper was accepted at IEDM’24!
 - *2024.06*: &nbsp;🔥 Awarded 24'Fall Excellent Graduate of Peking University! 
-- *2024.02*: &nbsp; 📄 Our collaborative paper was accepted by Nature Communications!
+- *2024.02*: &nbsp;📄 Our collaborative paper was accepted by Nature Communications!
 
 # 📝 Main Publications 
 
