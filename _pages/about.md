@@ -43,7 +43,7 @@ My research interests focus on
 # 🔥 News
 - *2025.11*: &nbsp;🔥 Presneted a poster at 2025 AI Tech Day!
 - *2025.09*: &nbsp;🎤 Gave an oral presentation at IEEE European Conference on Solid-State Circuits (ESSCIRC) 2025!
-- *2025.07*: &nbsp;📄 One paper was accepted at IEDM’25! 
+- *2025.09*: &nbsp;📄 One paper and two collaborative papers were accepted at IEDM’25! 
 - *2025.05*: &nbsp;📄 Our collaborative paper was accepted at Nature Electronics!
 - *2025.05*: &nbsp;📄 One paper was accepted at ESSCIRC'25! 🔗 [Read more](https://ieeexplore.ieee.org/document/11214056)
 - *2024.08*: &nbsp;📄 Our collaborative paper was accepted at IEDM’24!
