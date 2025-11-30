@@ -19,7 +19,7 @@ redirect_from:
 
 # Welcome!
 
-I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Academy for Advanced Interdisciplinary Studies, Peking University, under the supervision of [Prof. Yuchao Yang](http://yuchaolab.cn/index.html) and [Prof. Yaoyu Tao](https://taoyaoyu.github.io/). My research interests focus on computational neuroscience, neuromorphic computing, in-memory computing circuits and architectures, and memristor-based memory and associated architectures. I received B.S.E in Bioengineering from College of Life and Health Sciences, Northeastern University, in 2022 and got the China National Scholarship.
+I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Academy for Advanced Interdisciplinary Studies, Peking University, under the supervision of [Prof. Yuchao Yang](http://yuchaolab.cn/index.html) and [Prof. Yaoyu Tao](https://taoyaoyu.me/). My research interests focus on computational neuroscience, neuromorphic computing, in-memory computing circuits and architectures, and memristor-based memory and associated architectures. I received B.S.E in Bioengineering from College of Life and Health Sciences, Northeastern University, in 2022 and got the China National Scholarship.
 
 # 📖 Educations
 - *2022.06 - 2025.06 (now)*, Ph.D. in Integrated Life Sciences (Physics), Academy for Advanced Interdisciplinary Studies, Peking University
