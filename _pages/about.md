@@ -26,6 +26,9 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 - *2018.09 - 2022.06*, B.S.E in Bioengineering, College of Life and Health Sciences, Northeastern University. **GPA: 3.9/5, Rank: 2/78**
 
 # 🎖 Honors and Awards
+- *2025* Best Creative Poster at 2025 AI Tech Day
+- *2025* Merit Student in the academic year of 2024-2025
+- *2025* Guanggu Scholarship
 - *2025* Wiley Top Viewed Paper
 - *2025* Best Poster Award at Post-Moore Academic Annual Conference
 - *2024* Merit Student in the academic year of 2023-2024
@@ -39,9 +42,11 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 - *2020* China National Scholarship (Top 1 in College of Life and Health Sciences, NEU)
 
 # 🔥 News
+- *2025.11*: &nbsp;🏆 Awarded "Best Creative Poster" at 2025 AI Tech Day!
 - *2025.10*: &nbsp;🎤 Gave an oral presentation at 8th International Conference on Memristive Materials, Devices & Systems (MEMRISYS) 2025!
 - *2025.10*: &nbsp;🏆 Awarded "Merit Student" in the academic year of 2024-2025!
 - *2025.10*: &nbsp;🏆 Awarded Guanggu Scholarship!
+- *2025.09*: &nbsp;📄 Our collaborative paper was accepted at IEDM’2025! 
 - *2025.06*: &nbsp;📄 One paper was accepted at Advanced Science!
 - *2025.05*: &nbsp;📄 Our collaborative paper was accepted at Nature Electronics! 
 - *2025.04*: &nbsp;🏆 Work was recognized as "Top viewed article" in Advanced Electronic Materials!
