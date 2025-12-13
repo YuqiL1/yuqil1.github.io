@@ -41,7 +41,7 @@ My research interests focus on
 - *2019* Second Prize of 36th CPhO
 
 # 🔥 News
-- *2025.12*：&nbsp;🎤 Gave an oral presentation at IEEE International Electronic Device Meeting (IEDM) 2025!🔗 [Read more](https://www.linkedin.com/feed/update/urn:li:activity:7405514582104010752/)
+- *2025.12*：&nbsp;🎤 Gave an oral presentation at IEEE International Electron Devices Meeting (IEDM) 2025!🔗 [Read more](https://www.linkedin.com/feed/update/urn:li:activity:7405514582104010752/)
 - *2025.11*: &nbsp;🔥 Presneted a poster at 2025 AI Tech Day!
 - *2025.09*: &nbsp;🎤 Gave an oral presentation at IEEE European Conference on Solid-State Circuits (ESSERC) 2025!
 - *2025.09*: &nbsp;📄 One paper and two collaborative papers were accepted at IEDM’25! 
@@ -60,7 +60,7 @@ My research interests focus on
 **Zelun Pan<sup>#</sup>**, Longhao Yan<sup>#</sup>, Xile Wang, Bowen Wang, Yueying Luo, Zhe Zhan, Xi Li, Yuqi Li,
 Lei Cai, Teng Zhang, Minghui Yin, Yaoyu Tao^, Zhitang Song^ and Yuchao Yang^
 
-IEEE Electornic Device Meeting (IEDM), San Francisco, USA, 2025
+IEEE Electorn Devices Meeting (IEDM), San Francisco, USA, 2025
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSCIRC'25</div><img src='images/ESSERC2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
