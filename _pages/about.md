@@ -28,7 +28,7 @@ I am Yuqi Li, a Ph.D. student in Integrated Life Sciences (Physics) at the Acade
 # 🎖 Honors and Awards
 - *2025* Best Creative Poster at 2025 AI Tech Day
 - *2025* Merit Student in the academic year of 2024-2025
-- *2025* Guanggu Scholarship
+- *2025* The China Optics Valley Scholarship
 - *2025* Wiley Top Viewed Paper
 - *2025* Best Poster Award at Post-Moore Academic Annual Conference
 - *2024* Merit Student in the academic year of 2023-2024
