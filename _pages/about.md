@@ -64,6 +64,7 @@ My research interests focus on
 - *2019* Second Prize of 36th CPhO
 
 # 🔥 News
+- *2026.08*: &nbsp;🎤 Gave two oral presentations at Design Automation Condference (DAC) 2026!
 - *2026.07*：&nbsp;🧠 Our collaborative paper was published on **Science**!🔗 [Read more](https://www.science.org/doi/10.1126/science.aee6277)
 - *2026.05*：&nbsp;📄 Our paper was accepted at ESSERC'26!
 - *2026.02*：&nbsp;📄 Our paper was accepted at DAC'26!
@@ -83,6 +84,19 @@ My research interests focus on
 # 📝 Main Publications 
 
 ## Conference Papers
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEDM'25</div><img src='images/RL_Mapping_Poster.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[DAC'26]**[PiMM-NoC: Process-in-Memristor-Memory NoC with RL Mapping Framework for Versatile AI Models]
+
+Ziang Xie<sup>#</sup>, Yaoyu Tao<sup>#</sup>^, **Zelun Pan<sup>#</sup>**, Haojun Chen<sup>#</sup>, Zhiyuan Li, Qinghao Wang, Zhiming Pan, Yihang Zhu, Zixiang Luo, Yian Yang, Mo Guang, Kaiwen Long, Yaodong Yang, Yuchao
+Yang
+
+Design Automation Conference (DAC) 2026, Los Angeles, USA, 2026
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEDM'25</div><img src='images/AITechDay_PCM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
