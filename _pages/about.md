@@ -85,7 +85,7 @@ My research interests focus on
 
 ## Conference Papers
 
-<div class='paper-box'><div class='paper-box-image' style='--paper-image-width: 88%; --paper-image-max-width: 352px;'><div><div class="badge">DAC'26</div><img src='images/RL_Mapping_Poster.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style='--paper-image-width: 60%; --paper-image-max-width: 352px;'><div><div class="badge">DAC'26</div><img src='images/RL_Mapping_Poster.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[DAC'26]**[PiMM-NoC: Process-in-Memristor-Memory NoC with RL Mapping Framework for Versatile AI Models]
