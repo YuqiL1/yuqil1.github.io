@@ -51,12 +51,18 @@
     
 
     .paper-box-image{
+        --paper-image-width: 100%;
+        --paper-image-max-width: 400px;
         justify-content: center;
         display: flex;
         width: 100%;
         order: 2;
+        > div {
+            width: var(--paper-image-width);
+            max-width: var(--paper-image-max-width);
+        }
         img {
-            max-width: 400px;
+            max-width: 100%;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
         }
