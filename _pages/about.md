@@ -27,6 +27,29 @@ My research interests focus on
 
 - In-Memory-Computing (IMC) chip design. 
 
+<div class="scholar-stats" markdown="0">
+  <a class="scholar-stats__link" href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">
+    <i class="fas fa-fw fa-graduation-cap"></i>
+    Google Scholar
+  </a>
+  <div class="scholar-stats__items">
+    <div class="scholar-stats__item">
+      <span id="total_cit" class="scholar-stats__value">--</span>
+      <span class="scholar-stats__label">Citations</span>
+    </div>
+    <div class="scholar-stats__item">
+      <span id="scholar_h_index" class="scholar-stats__value">--</span>
+      <span class="scholar-stats__label">h-index</span>
+    </div>
+    <div class="scholar-stats__item">
+      <span id="scholar_i10_index" class="scholar-stats__value">--</span>
+      <span class="scholar-stats__label">i10-index</span>
+    </div>
+  </div>
+  <div id="scholar_stats_status" class="scholar-stats__status">Loading Google Scholar stats...</div>
+  <div id="scholar_updated" class="scholar-stats__updated"></div>
+</div>
+
 # 📖 Educations
 - *2024.09 - Present*, Ph.D. Student at School of Integrated Circuits, Peking University
 - *2020.09 - 2024.06*, B.S at EECS, Peking University. **Rank: 2/46, Excellent Graduate**

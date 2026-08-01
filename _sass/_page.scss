@@ -116,6 +116,60 @@
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
+
+  .scholar-stats {
+    margin: 1.5em 0 2em;
+    padding: 1em;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    background-color: mix(#fff, $lighter-gray, 45%);
+    font-family: $sans-serif;
+  }
+
+  .scholar-stats__link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35em;
+    margin-bottom: 0.75em;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  .scholar-stats__items {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75em;
+  }
+
+  .scholar-stats__item {
+    min-width: 7em;
+    padding: 0.65em 0.75em;
+    border-left: 3px solid $primary-color;
+    background-color: #fff;
+  }
+
+  .scholar-stats__value {
+    display: block;
+    color: $primary-color;
+    font-size: $type-size-4;
+    font-weight: bold;
+    line-height: 1;
+  }
+
+  .scholar-stats__label {
+    display: block;
+    margin-top: 0.25em;
+    color: mix(#fff, $gray, 20%);
+    font-size: $type-size-7;
+    text-transform: uppercase;
+  }
+
+  .scholar-stats__status,
+  .scholar-stats__updated {
+    margin-top: 0.65em;
+    color: mix(#fff, $gray, 20%);
+    font-size: $type-size-7;
+  }
 }
 
 .page__hero {
