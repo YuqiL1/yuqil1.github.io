@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 # Welcome!
@@ -26,29 +19,6 @@ My research interests focus on
 - Heterogeneous Archieture, including memory-centric architectures, optical-electrical computing accelerators and etc. 
 
 - In-Memory-Computing (IMC) chip design. 
-
-<div class="scholar-stats" markdown="0">
-  <a class="scholar-stats__link" href="{{ site.author.googlescholar }}" target="_blank" rel="noopener">
-    <i class="fas fa-fw fa-graduation-cap"></i>
-    Google Scholar
-  </a>
-  <div class="scholar-stats__items">
-    <div class="scholar-stats__item">
-      <span id="total_cit" class="scholar-stats__value">--</span>
-      <span class="scholar-stats__label">Citations</span>
-    </div>
-    <div class="scholar-stats__item">
-      <span id="scholar_h_index" class="scholar-stats__value">--</span>
-      <span class="scholar-stats__label">h-index</span>
-    </div>
-    <div class="scholar-stats__item">
-      <span id="scholar_i10_index" class="scholar-stats__value">--</span>
-      <span class="scholar-stats__label">i10-index</span>
-    </div>
-  </div>
-  <div id="scholar_stats_status" class="scholar-stats__status">Loading Google Scholar stats...</div>
-  <div id="scholar_updated" class="scholar-stats__updated"></div>
-</div>
 
 # 📖 Educations
 - *2024.09 - Present*, Ph.D. Student at School of Integrated Circuits, Peking University
