@@ -26,7 +26,7 @@ My research interests focus on
 - *2023.09 - 2024.01*, Exchange Student at Department of Computer Science, UCL
 
 # 🎖 Honors and Awards
-- *2026* 1st Prize at 9th 'Huawei Cup' China Postgraduate IC Innovation Competition (Top 18 in China) 
+- *2026* 1st Prize in the 9th 'Huawei Cup' China Postgraduate IC Innovation Competition (Top 18 in China) 
 - *2024* Excellent Graduate (24' Fall) of Peking University
 - *2020 - 2023* Merit Student & Peacemaker of Merit Student
 - *2023* Jiukun Scholarship (Top 5%)
