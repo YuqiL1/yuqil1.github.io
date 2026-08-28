@@ -150,6 +150,9 @@ Science, 393(6806), pp.105-112.
 - **[arXiv]** Lianfeng Yu, Yaoyu Tao^, Teng Zhang, Zeyu Wang, Xile Wang, **Zelun Pan**, Bowen Wang, Zhaokun Jing, Jiaxin Liu, Yuqi Li, Yihang Zhu, Bonan Yan, Yuchao Yang^. [Fast and reconfigurable sort-in-memory system enabled by memristors.](https://scholar.google.cz/citations?view_op=view_citation&hl=zh-CN&user=366EE6gAAAAJ&citation_for_view=366EE6gAAAAJ:2osOgNQ5qMEC) arXiv, 2024.
 
 # 💬 Oral Presentations
+- *2026.08*, CPICIC'26 "A High-Reliability Mixed-Precision PCM Compute-in-Memory Chip for Edge Intelligence"
+- *2026.07*, DAC'26 "PiMM-NoC: Process-in-Memristor-Memory NoC with RL Mapping Framework for Versatile AI Models"
+- *2026.07*, DAC'26 "M²CAM: A Multi-level Memristor-based Self-adaptive CAM Architecture for Genome Processing Acceleration"
 - *2025.12*, IEDM'25 "A 40nm Mixed-Precision PCM Chip with Fused Analog/Digital Compute-in-Memory and Adaptive Drift Compensation for Embodied AI Applications"
 - *2025.09*, ESSERC'25 "A 1308 TOPS/W Charge-Mode ReRAM CIM Macro with 4T2R2C Differential Cell and FIA-Based Analog Accumulation for AI Inference"
 
